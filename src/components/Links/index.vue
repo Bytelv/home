@@ -53,7 +53,7 @@ let linksData = [
     link: "https://cloud.lvbyte.tk/",
   },
   {
-    icon: Running,
+    icon: Bicycle,
     name: "运动",
     link: "https://sport.lvbyte.tk/",
   },
