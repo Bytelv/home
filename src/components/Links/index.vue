@@ -58,6 +58,11 @@ let linksData = [
     link: "https://sport.lvbyte.tk/",
   },
   {
+    icon: music,
+    name: "音乐",
+    link: "https://music.lvbyte.tk/",
+  },
+  {
     icon: Flask,
     name: "实验室",
     link: "https://bit.lvbyte.tk/",
