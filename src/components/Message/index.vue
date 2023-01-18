@@ -3,7 +3,7 @@
   <div class="message">
     <!-- Logo -->
     <div class="logo">
-      <img class="logo-img" src="/images/icon/logo.png" alt="logo" />
+      <img class="logo-img" src="/images/icon/logo.jpg" alt="logo" />
       <div class="name">
         <span class="bg">{{ siteUrl[0] }}</span>
         <span class="sm">.{{ siteUrl[1] }}</span>
