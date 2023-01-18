@@ -66,7 +66,7 @@ let linksData = [
     icon: Flask,
     name: "实验室",
     link: "https://bit.lvbyte.tk/",
-  },
+  }
 ];
 
 // 链接跳转
