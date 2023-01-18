@@ -58,7 +58,7 @@ let linksData = [
     link: "https://sport.lvbyte.tk/",
   },
   {
-    icon: Flask,
+    icon: CompactDisc,
     name: "音乐",
     link: "https://music.lvbyte.tk/",
   },
