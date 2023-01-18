@@ -38,6 +38,7 @@ import {
   Compass,
   Book,
   Flask,
+  Bicycle,
 } from "@vicons/fa";
 
 // 网站链接数据
