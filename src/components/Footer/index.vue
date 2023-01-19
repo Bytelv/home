@@ -6,14 +6,7 @@
         <a href="https://lvbyte.tk">字节君</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
-      <span class="hidden"
-        >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;<a
-          :href="config.github"
-          target="_blank"
-        >
-          {{ config.author }}
-        </a></span
-      >&nbsp;&amp;
+      
   
     </div>
     <div class="lrc" v-show="store.playerState">
