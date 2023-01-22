@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://space.lvbyte.top/",
+    link: "https://blog.lvbyte.top/",
   },
   {
     icon: Cloud,
